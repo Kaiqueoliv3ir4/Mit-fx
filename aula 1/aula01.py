@@ -1,0 +1,5 @@
+print('olá,mundo!')
+print('air max 95')
+print('corteiz man')
+print('regular show')
+print('eden hazard')
